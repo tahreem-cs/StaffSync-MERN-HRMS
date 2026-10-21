@@ -1,0 +1,16 @@
+# Secret Environment Variables
+.env
+*.env
+
+# Dependency Folders (Heavy files that shouldn't go to GitHub)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build Output Folders
+dist/
+build/
+
+# System / IDE Files
+.DS_Store
+.vscode/
