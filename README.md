@@ -36,6 +36,7 @@ Hi there, I'm Tahreem! 👋
 
 
  📁 Project Directory Structure
+ ```
 StaffSync/
 ├── backend/
 │   ├── config/
@@ -98,3 +99,4 @@ StaffSync/
         │   └── ManagerDashboard.jsx
         └── routes/               # Navigation & route protection
             └── ProtectedRoute.jsx
+```
